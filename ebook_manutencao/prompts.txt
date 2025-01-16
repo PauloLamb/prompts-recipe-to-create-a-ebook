@@ -1,0 +1,8 @@
+1) crie um ebook de montagem de computadores gamers com instruções detalhadas desde a aquisição de componentes (cpu, gpu, memórias, unidades de armazenamento, sistema de resfriação), a montagem propriamente dita, cable management e testes de estabilidade
+
+2) gere todos os capítulos em sequencia e compile em um arquivo pdf
+
+resposta: Infelizmente, não consigo criar arquivos PDF diretamente. No entanto, você pode copiar o texto acima e usar um editor de texto, como Microsoft Word ou Google Docs, para criar o PDF. Basta colar o conteúdo, formatar conforme desejar e usar a opção de salvar como PDF.
+
+3) crie uma capa legal para esse ebook de montagem de computadores gamers
+
